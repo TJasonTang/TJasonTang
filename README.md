@@ -1,9 +1,9 @@
-👋 Hi, I’m @TJasonTang, a data science enthusiast with a strong foundation in applied mathematics acquired from the University of Kent at Canterbury. I hold an MSc in Applied Mathematics and a BSc (Hons) in Mathematics, both with merit recognition. My academic journey has equipped me with extensive knowledge in various mathematical and computational modules, setting a robust base for my current profession as a Data Scientist Consultant.
+👋 Hi, I’m @Chencen Tang, a data scientist with a background in applied mathematics from the University of Kent at Canterbury.
 
-👀 I’m deeply interested in leveraging machine learning and data analysis to solve real-world problems. My experience spans from developing churn prediction models using AWS SageMaker to executing computer vision projects for advanced traffic management solutions. I am also intrigued by the potential of Natural Language Processing (NLP) and time-series analysis in extracting insights and driving strategic decisions.
+👀 I specialize in machine learning, computer vision, and NLP projects. My experience includes developing churn prediction models, real-time car detection systems, and text generative models using frameworks like AWS SageMaker and GPT-3.5 Turbo.
 
-🌱 I’m currently diving deeper into Generative Models and exploring the vast capabilities of models like GPT-3.5 Turbo in text generation. My recent project involved developing a text Generative Model to aid in the creation of product descriptions, showcasing the blend of creativity and technology.
+🌱 I'm continuously exploring advanced ML techniques and generative models to tackle real-world problems.
 
-💞️ I’m open to collaborating on innovative projects within data science, machine learning, and AI-driven solutions. My previous stint as a Company Director at KDSY FOOD Ltd, focused on utilizing AI to dynamically generate recipes and analyze customer feedback, illuminating the intersection of technology, data, and the food industry.
+💞️ Open to collaborations in data science and AI-driven projects.
 
-📫 Reach out to me for any exciting collaborative opportunities or discussions. You can contact me via [LinkedIn](https://www.linkedin.com/in/chencen-tang-915185244/) or at chencen@hotmail.co.uk With a knack for communicating complex mathematical concepts and a passion for continuous learning, I am excited about the endless possibilities the future holds in the realm of data science.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chencen-tang-915185244/) or at chencen@hotmail.co.uk
